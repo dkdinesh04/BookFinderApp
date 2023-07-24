@@ -1,7 +1,21 @@
-# Getting Started with Create React App
+# Book Finder Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This project has been created using ReactJS.
 
+## User Interface
+
+![image](https://github.com/dkdinesh04/BookFinderApp_iNeuron/assets/139459364/db45865b-7ec3-4615-bfe9-198348d7f365)
+![image](https://github.com/dkdinesh04/BookFinderApp_iNeuron/assets/139459364/bbdb25ed-8550-4385-a34d-c0815d1441be)
+![image](https://github.com/dkdinesh04/BookFinderApp_iNeuron/assets/139459364/2459bf31-2c61-4e0d-a89f-ceebeefec2ed)
+
+
+## Technology used
+ReactJS
+NodeJS
+HTML
+CSS
+JavaScript
 ## Available Scripts
 
 In the project directory, you can run:
