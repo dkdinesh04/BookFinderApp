@@ -29,7 +29,7 @@ function findBooks() {
     loadingSpinner.style.display = 'block';
     booksContainer.innerHTML = ''; // Clear previous results
 
-    const apiURL = `https://www.googleapis.com/books/v1/volumes?q=${searchInput}&startIndex=${startIndex}&maxResults=10`;
+    const apiURL = `https://www.googleapis.com/books/v1/volumes?q=${searchInput}&startIndex=${startIndex}&maxResults=10&key=AIzaSyBw3aok9afBatKq6ZEkwnvdkvdIt57BavY`;
 
     fetch(apiURL)
         .then(response => response.json())
